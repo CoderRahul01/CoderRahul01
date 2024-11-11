@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @CoderRahul01
-- 👀 I’m interested in Artificial Intelligence and Compitative programming 
-- 🌱 I’m currently learning Computer Science and Enginnering from Swami Vivekananda University Barrackpore 
-- 💞️ I’m looking to collaborate on LinkedIn and also on GitHub 
-- 📫 How to reach me -->You can easily reach me on Gmail and LinkedIn
-- Gmail [jobinfo.rahul@gmail.com]
+# Hi, I'm Rahul Pandey 👋
 
-<!---
-CoderRahul01/CoderRahul01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 **I'm interested in:**  
+- Artificial Intelligence   
+- MERN Stack Development  
+- Python Development
+
+🌱 **Currently Learning:**  
+I'm pursuing **Computer Science and Engineering** at **Swami Vivekananda University, Barrackpore**.
+
+💼 **Looking to Collaborate:**  
+I'm open to collaborations on LinkedIn and GitHub to work on exciting tech projects!
+
+📫 **How to Reach Me:**  
+- **Email:** [jobinfo.rahul@gmail.com](mailto:jobinfo.rahul@gmail.com)  
+- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/rahulpandey187)  
+
+Let's connect and create something innovative together!
