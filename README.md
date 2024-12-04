@@ -13,6 +13,6 @@ I'm open to collaborations on LinkedIn and GitHub to work on exciting tech proje
 
 📫 **How to Reach Me:**  
 - **Email:** [jobinfo.rahul@gmail.com](mailto:jobinfo.rahul@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/rahulpandey187)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rahulpandey187)  
 
 Let's connect and create something innovative together!
