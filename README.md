@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Rahul Pandey 👋  
 **Fullstack AI Developer & DevOps Professional**
 
@@ -75,4 +74,3 @@ I’m always eager to connect and collaborate — whether that’s on GitHub, Li
 I love exploring cutting-edge AI tools and experimenting with RAG, generative UI, and infrastructure automation to build smarter software.
 
 ---
-```
